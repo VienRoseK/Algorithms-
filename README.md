@@ -3,4 +3,4 @@ The purpose of this repository is for a footprint of my algorithms studying foll
 
 # Topics: 
 Graph, Linked List, Dynamic Programming, Sorting And Searching, Tree/Binary Search Tree, Number Theory, BIT Manipulation, and String/Array.
-Each topic has 10 different algorithms. The core point is learningt the basic structure and reorganizing the code in my way to apply the knowledge. 
+Each topic has 10 different algorithms. The core point is learning the basic structure and reorganizing the code in my way to apply the knowledge. 
