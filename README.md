@@ -1,4 +1,4 @@
-# Algorithms
+# Purpose
 The purpose of this repository is for a footprint of my algorithms studying following 'Top 10 algorithms in Interview Questions' posted by GeeksforGeeks website. - (reference) https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo1
 
 # Topics: 
